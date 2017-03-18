@@ -1,0 +1,1 @@
+this is simple website downloader apps for android.The file path and creating date should be in json formate in webservice.
